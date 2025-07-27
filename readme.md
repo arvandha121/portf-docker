@@ -3,7 +3,7 @@
 ## Detail Skema 
 Ini adalah skema docker compose yang bisa digunakan untuk menjalankan Laravel.  
 Beberapa program yang digunakan adalah:
-- Apache
+- Nginx (stable-alpine)
 - PHP 8.2
 - Laravel atau Project (Taruh di `app`)
 - MySQL 8.0
